@@ -9,4 +9,5 @@ This is a simple Java project that allows the user to enter a list of strings on
 
 
 ## Evidence screenshot 
-![exercicio1](https://github.com/EmeliTa/JavaTest/assets/31098448/117776c7-3caf-4483-8368-c6d9d5bd5cc7)
+
+![exercicio1](https://github.com/EmeliTa/JavaTest/assets/31098448/e12cbe36-4e07-4820-a1c9-6a28f8de2679)
